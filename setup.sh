@@ -78,17 +78,6 @@ else
 fi
 
 # ------------------------------
-# INSTALL SUBLIME TEXT 3
-# ------------------------------
-#read -p "Do you really want to install Sublime Text 3 on /usr/local? [Y/n]: " CONFIRM
-#CONFIRM=$(echo "${CONFIRM}" | tr [a-z] [A-Z])
-#if [[ "${CONFIRM}" = 'N' ]] || [[ "${CONFIRM}" = 'NO' ]]; then
-#    echo Bypassing the install of sublime text 3
-#else
-#	echo Downloading sublime text 3
-#fi
-
-# ------------------------------
 # OTHER TOOLS
 # ------------------------------
 brew install wget mtr iftop pv tmux
