@@ -7,7 +7,8 @@ __Stack Tools__
 
 Will give you the following:
 
-* Node and NPM
+* Node
+* NPM
 * Yeoman
 * Grunt
 * Bower
